@@ -26,8 +26,3 @@ r$run(port = 8000)
 # 
 # ## deploy the api
 # plumber::do_deploy_api(mydrop$id, "admitscore", "./api/plumber.r", "8000")
-
-
-
-mydrop = plumber::do_provision()
-do_deploy_api(mydrop, "plumbertest", "./api", 8001)
