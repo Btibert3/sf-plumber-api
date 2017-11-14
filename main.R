@@ -4,7 +4,7 @@ options(stringsAsFactors = FALSE)
 library(plumber)
 
 ## manual way locally
-r = plumber::plumb("admit-model.R")
+r = plumber::plumb("api/plumber.R")
 r$run(port = 8000)
 
 
