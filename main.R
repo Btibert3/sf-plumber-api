@@ -5,7 +5,7 @@ library(plumber)
 
 ## manual way locally
 r = plumber::plumb("api/plumber.R")
-r$run(port = 8000)
+r$run(port = 8000, swagger = TRUE)
 
 
 ## CANT GET DO to WORK, what is the code to spin up docker/git setup
