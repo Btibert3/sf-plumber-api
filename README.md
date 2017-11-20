@@ -6,5 +6,9 @@ https://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_forceco
 
 ## salesforce 
 
+https://andyinthecloud.com/2017/07/23/simplified-api-integrations-with-external-services/
+
+dont have anything selected on service screen
+
 #### if docker, to expose swagger
 http://urlhere:8000/swagger.json
