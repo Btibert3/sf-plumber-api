@@ -10,5 +10,7 @@ https://andyinthecloud.com/2017/07/23/simplified-api-integrations-with-external-
 
 dont have anything selected on service screen
 
+![setup](figs/setup.png)
+
 #### if docker, to expose swagger
 http://urlhere:8000/swagger.json
